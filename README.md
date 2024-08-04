@@ -45,5 +45,4 @@ Key Activities
      - Attempts to establish a socket connection to each port.
      - If the connection is successful within the specified timeout (100 milliseconds), it prints that the port is open.
      - If the connection fails (throws an IOException), it means the port is closed or not reachable.
-   - Completion Message:
-   - Prints a message indicating the scan is complete.
+   - Completion Message: Prints a message indicating the scan is complete.
